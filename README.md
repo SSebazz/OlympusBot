@@ -2,23 +2,7 @@
 	<a><img src="imgaes/Banner-Samall.png"></img></a>
 </div>
 
-# Discord.js Guide
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Welcome" alt="Typing SVG" /></a>
+</p>
 
-Imagine a guide... that explores the many possibilities for your [discord.js](https://github.com/discordjs/discord.js) bot.
-
-## About
-
-This guide is aimed at users who are either unfamiliar or inexperienced with Node.js and creating Discord bots. It assumes you have a basic understanding of JavaScript.
-
-There are many different subjects covered, such as:
-
-- How to get a bot [up and running](https://discordjs.guide/preparations/) from scratch;
-- How to properly [create](https://discordjs.guide/creating-your-bot/), [organize](https://discordjs.guide/creating-your-bot/command-handling.html), and expand on your commands;
-- In-depth explanations and examples regarding popular topics (e.g. [reactions](https://discordjs.guide/popular-topics/reactions.html), [embeds](https://discordjs.guide/popular-topics/embeds.html), [canvas](https://discordjs.guide/popular-topics/canvas.html));
-- Working with databases (e.g. [sequelize](https://discordjs.guide/sequelize/) and [keyv](https://discordjs.guide/keyv/));
-- Getting started with [sharding](https://discordjs.guide/sharding/);
-- And much more.
-
-## Contributing
-
-If you're interested in contributing to the guide, you should check out our [GitHub Projects](https://github.com/discordjs/guide/projects) page or [open issues](https://github.com/discordjs/guide/issues). There's a [contribution guide](https://github.com/discordjs/guide/blob/main/CONTRIBUTING.md) you should read once you decide on what you want to contribute.
