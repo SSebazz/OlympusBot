@@ -1,5 +1,5 @@
 div align="center">
-	<img src="OlympusBot/imgaes/banner-small.png" title="discord.js Guide" alt="discord.js Guide" />
+	<img src="OlympusBot/imgaes/Banner-Samall.png" title="discord.js Guide" alt="discord.js Guide" />
 </div>
 
 # Discord.js Guide
