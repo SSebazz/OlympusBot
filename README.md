@@ -1,4 +1,4 @@
-div align="center">
+<div align="center">
 	<img src="https://cdn.discordapp.com/attachments/1050492553759297607/1071955447650721932/Banner-Samall.png" title="discord.js Guide" alt="discord.js Guide" />
 </div>
 
