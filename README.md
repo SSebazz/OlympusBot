@@ -1,5 +1,5 @@
 <div align="center">
-	<a href=" https://discord.gg/KFMQCdCDwy"><img src="imgaes/Banner-Samall.png"></img></a>
+	<a><img src="imgaes/Banner-Samall.png"></img></a>
 </div>
 
 # Discord.js Guide
