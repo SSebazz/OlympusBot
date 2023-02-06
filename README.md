@@ -1,5 +1,5 @@
 <div align="center">
-	<a><img src="imgaes/readme.png"></img></a>
+	<a><img src="imgaes/banner-small.png"></img></a>
 </div>
 
 <p align="center">
